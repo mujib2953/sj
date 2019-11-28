@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/mujib2953/sj/issues"
   },
-  "homepage": "https://github.com/mujib2953/sj#readme"
+  "homepage": "https://github.com/mujib2953/sj#readme",
+  "dependencies": {
+    "cron": "^1.7.2",
+    "node-fetch": "^2.6.0"
+  }
 }
