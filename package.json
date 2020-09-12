@@ -22,7 +22,7 @@
   "homepage": "https://github.com/mujib2953/sj#readme",
   "dependencies": {
     "cron": "^1.7.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "redis": "^2.8.0"
   }
 }
